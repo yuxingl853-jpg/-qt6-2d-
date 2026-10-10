@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/paoku3.png</file>
+        <file>image/paoku4.png</file>
+        <file>image/bg.png</file>
+        <file>image/kuai.png</file>
+        <file>image/paoku1.png</file>
+        <file>image/paoku2.png</file>
+        <file>image/yx.jpg</file>
+    </qresource>
+</RCC>
